@@ -1,0 +1,29 @@
+ #skipto {
+     padding:5px 15px 5px 15px;
+     overflow: visible;
+    
+     
+ }
+ #skipto li {
+    list-style: none;
+    display: inline-block; 
+    word-wrap: break-word;
+   
+    /*display:none;*/
+}
+
+#skipto a {
+    text-decoration: none;
+    border:3px solid #0099ff;
+    padding: 10px;
+    margin:10px;
+}
+h1 {
+    color: #0099ff;
+}
+h2 {
+    color: #808080;
+}
+h3, h4, h5, h6 {
+    color: #b3b3b3;
+}
